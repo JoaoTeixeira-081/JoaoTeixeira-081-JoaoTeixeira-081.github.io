@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "- 🔭 I’m currently working on Devscope.\r - 🌱 I’m currently learning this platform (GitHub).\r - ⚡ I’m looking to learn PowerShell in the next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoTeixeira-081/JoaoTeixeira-081-JoaoTeixeira-081.github.io.git"
+  },
+  "author": "JoaoTeixeira-081",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoaoTeixeira-081/JoaoTeixeira-081-JoaoTeixeira-081.github.io/issues"
+  },
+  "homepage": "https://github.com/JoaoTeixeira-081/JoaoTeixeira-081-JoaoTeixeira-081.github.io#readme"
+}
